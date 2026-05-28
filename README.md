@@ -9,6 +9,7 @@
 <h1>Wikimapia Archiver</h1>
 
 <p><em>Preserve the world's geographic memory — before it disappears.</em></p>
+<p><B>!!! THE MOST COMPREHENSIVE PROJECT CURRENTLY UNDER DEVELOPMENT. !!!</B></p>
 
 <br/>
 
