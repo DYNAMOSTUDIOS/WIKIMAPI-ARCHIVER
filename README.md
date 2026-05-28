@@ -3,7 +3,7 @@
 <!-- Logo emblem (SVG fallback inline) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DYNAMOSTUDIOS/WIKIMAPI-ARCHIVER/blob/main/wikimapia.org-logo.png" />
-  <img src="https://github.com/DYNAMOSTUDIOS/WIKIMAPI-ARCHIVER/blob/main/wikimapia.org-logo.png" alt="Wikimapia Archiver Logo" height="250" />
+  <img src="https://github.com/DYNAMOSTUDIOS/WIKIMAPIA-ARCHIVER/blob/main/wikimapia.org-logo.png" alt="Wikimapia Archiver Logo" height="250" />
 </picture>
 
 <h1>Wikimapia Archiver</h1>
